@@ -96,9 +96,5 @@ Implemented models include:
 - Save trained models (`joblib`/`pickle`) for deployment
 - Integrate pipeline into a web app (Flask/Streamlit)
 
-## 📄 License
-Specify your license (MIT, Apache 2.0, etc.)
 
----
-**Author:** Amgoth Suresh  
-**Notebook:** `ml_premium_prediction.ipynb`
+These NExt steps are also done please have look in streamlit folder
